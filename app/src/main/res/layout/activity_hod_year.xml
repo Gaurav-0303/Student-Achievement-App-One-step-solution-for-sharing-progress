@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/hod_background"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".Hod_year">
+
+    <Button
+        android:id="@+id/button_first_year"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="#0040FF"
+        android:text="First Year"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_second_year"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="#0040FF"
+        android:text="Second Year"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_third_year"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="#0040FF"
+        android:text="Third Year"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+    <Button
+        android:id="@+id/button_fourth_year"
+        android:layout_width="180dp"
+        android:layout_height="60dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="#0040FF"
+        android:text="Fourth Year"
+        android:textColor="#ffffff"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
